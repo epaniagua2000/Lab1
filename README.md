@@ -1,1 +1,1 @@
-# itmd361-lab1
+# ITMD361 Lab 1
